@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "hgsn",
+    "name": "한강뷰",
     "slug": "hgsn",
     "version": "1.0.0",
 
     "web": {
-      "favicon": "./assets/favicon.png"
+      "fav뷰con": "./assets/favicon.png"
     },
 
     "experiments": {
@@ -26,7 +26,7 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false
     },
     "android": {
       "adaptiveIcon": {
